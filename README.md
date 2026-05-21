@@ -123,3 +123,5 @@ M. A. Qadeer and S. Ahmad. Beyond the hoodie: Hacker psychology and the ethical-
 ## Notes
 
 This repository is intended as a research index and summary archive. For the complete papers, detailed references, and formal documentation, please use the project-specific folders and contact the authors directly.
+
+Thank you!
